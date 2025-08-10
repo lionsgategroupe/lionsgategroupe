@@ -2,7 +2,7 @@
   <div align="center">
     <h3>Lions Gate Groupe</h3>
     <p>
-      Thoughtful decision making producing better outcomes.
+      Where wealth preservation meets strategic opportunity.
     </p>
     <p>
       <a href="https://github.com/lionsgategroupe">Explore Lions Gate Groupe</a>
